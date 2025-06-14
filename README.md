@@ -21,8 +21,7 @@ A full-stack application built with Next.js and Supabase that allows users to cr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd collaborative-form-editor
+git clone [<repository-url>](https://github.com/BrhKmr23/Proactively-Backend-)
 ```
 
 2. Install dependencies:
